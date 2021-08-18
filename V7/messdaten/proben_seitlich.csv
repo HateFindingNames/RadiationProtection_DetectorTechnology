@@ -1,0 +1,4 @@
+﻿Abgedeckte Probenfläche;P1 a [ips];P1 a+b [ips];P2 a [ips];P2 a+b [ips];P3 a [ips];P3 a+b [ips]
+0;0.1;5;0.1;5;0.1;5
+0.5;3;20;0.1;20;0.1;5
+1;30;100;0.1;200;0.1;5
